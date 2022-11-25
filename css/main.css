@@ -1,0 +1,63 @@
+.ponto_turistico img {
+    width: 70%;
+}
+
+.informações_gerais {
+    line-height: 2rem;
+}
+.historia{
+    margin-top: 2rem;
+    padding-top: 2rem;
+    color: var(--fonte);
+    background-color: var(--baloes);
+    border-radius: 12px;
+    color: white;
+    padding: 2rem;
+    border-bottom: 4px solid var(--alguma-coisa);
+}
+
+.bandeira{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    color: var(--fonte);
+    background-color: var(--baloes);
+    border-radius: 12px;
+    color: white;
+    border-bottom: 4px solid var(--alguma-coisa);
+    padding-inline: 2rem;
+}
+
+.ponto_turistico {
+    background-color: var(--baloes);
+    border-radius: 12px;
+    color: white;
+    margin-bottom: 4rem;
+    padding-block: 2rem;
+    border-bottom: 4px solid var(--alguma-coisa);
+}
+.informações_gerais{
+    background-color: var(--baloes);
+    border-radius: 12px;
+    color: white;
+    padding-bottom: 4rem;
+    padding-inline: 2rem;
+    border-bottom: 4px solid var(--alguma-coisa);
+}
+.cultura{
+    background-color: var(--baloes);
+    border-radius: 12px;
+    color: white;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+    padding-inline: 2rem;
+    border-bottom: 4px solid var(--alguma-coisa);
+}
+.politica{
+    background-color: var(--baloes);
+    border-radius: 12px;
+    color: white;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+    padding-inline: 2rem;
+    border-bottom: 4px solid var(--alguma-coisa);
+}
